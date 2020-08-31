@@ -1,0 +1,188 @@
+{
+  "version": "https://jsonfeed.org/version/1",
+  "title": "Hacker News: Front Page",
+  "description": "Hacker News RSS",
+  "home_page_url": "https://news.ycombinator.com/",
+  "items": [
+    {
+      "id": "https://news.ycombinator.com/item?id=24303952",
+      "title": "Ham radio is dying No it’s not, it's evolving – K0LWC",
+      "content_html": "\n\u003cp\u003eArticle URL: \u003ca href=\"http://k0lwc.com/ham-radio-is-dying-no-its-not-its-evolving/\"\u003ehttp://k0lwc.com/ham-radio-is-dying-no-its-not-its-evolving/\u003c/a\u003e\u003c/p\u003e\n\u003cp\u003eComments URL: \u003ca href=\"https://news.ycombinator.com/item?id=24303952\"\u003ehttps://news.ycombinator.com/item?id=24303952\u003c/a\u003e\u003c/p\u003e\n\u003cp\u003ePoints: 43\u003c/p\u003e\n\u003cp\u003e# Comments: 15\u003c/p\u003e\n",
+      "url": "http://k0lwc.com/ham-radio-is-dying-no-its-not-its-evolving/",
+      "external_url": "https://news.ycombinator.com/item?id=24303952",
+      "date_published": "2020-08-28T12:16:59Z",
+      "author": "lightlyusedsff"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=24303497",
+      "title": "China Built a Vast New Infrastructure to Imprison Uighurs",
+      "content_html": "\n\u003cp\u003eArticle URL: \u003ca href=\"https://www.buzzfeednews.com/article/meghara/china-new-internment-camps-xinjiang-uighurs-muslims\"\u003ehttps://www.buzzfeednews.com/article/meghara/china-new-internment-camps-xinjiang-uighurs-muslims\u003c/a\u003e\u003c/p\u003e\n\u003cp\u003eComments URL: \u003ca href=\"https://news.ycombinator.com/item?id=24303497\"\u003ehttps://news.ycombinator.com/item?id=24303497\u003c/a\u003e\u003c/p\u003e\n\u003cp\u003ePoints: 250\u003c/p\u003e\n\u003cp\u003e# Comments: 164\u003c/p\u003e\n",
+      "url": "https://www.buzzfeednews.com/article/meghara/china-new-internment-camps-xinjiang-uighurs-muslims",
+      "external_url": "https://news.ycombinator.com/item?id=24303497",
+      "date_published": "2020-08-28T11:07:07Z",
+      "author": "amaajemyfren"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=24303322",
+      "title": "Testing Database Transactions in Go",
+      "content_html": "\n\u003cp\u003eArticle URL: \u003ca href=\"https://marvinblum.de/blog/testing-database-transactions-in-go-jEaOGXravM\"\u003ehttps://marvinblum.de/blog/testing-database-transactions-in-go-jEaOGXravM\u003c/a\u003e\u003c/p\u003e\n\u003cp\u003eComments URL: \u003ca href=\"https://news.ycombinator.com/item?id=24303322\"\u003ehttps://news.ycombinator.com/item?id=24303322\u003c/a\u003e\u003c/p\u003e\n\u003cp\u003ePoints: 44\u003c/p\u003e\n\u003cp\u003e# Comments: 10\u003c/p\u003e\n",
+      "url": "https://marvinblum.de/blog/testing-database-transactions-in-go-jEaOGXravM",
+      "external_url": "https://news.ycombinator.com/item?id=24303322",
+      "date_published": "2020-08-28T10:33:35Z",
+      "author": "marvinblum"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=24303280",
+      "title": "OCaml Workshop 2020 Online Conference is live now",
+      "content_html": "\n\u003cp\u003eArticle URL: \u003ca href=\"https://discuss.ocaml.org/t/ocaml-workshop-2020-online-conference-is-live-now/6287/9?u=mseri\"\u003ehttps://discuss.ocaml.org/t/ocaml-workshop-2020-online-conference-is-live-now/6287/9?u=mseri\u003c/a\u003e\u003c/p\u003e\n\u003cp\u003eComments URL: \u003ca href=\"https://news.ycombinator.com/item?id=24303280\"\u003ehttps://news.ycombinator.com/item?id=24303280\u003c/a\u003e\u003c/p\u003e\n\u003cp\u003ePoints: 85\u003c/p\u003e\n\u003cp\u003e# Comments: 3\u003c/p\u003e\n",
+      "url": "https://discuss.ocaml.org/t/ocaml-workshop-2020-online-conference-is-live-now/6287/9?u=mseri",
+      "external_url": "https://news.ycombinator.com/item?id=24303280",
+      "date_published": "2020-08-28T10:24:52Z",
+      "author": "mseri"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=24302896",
+      "title": "Using Microsoft Word with Git",
+      "content_html": "\n\u003cp\u003eArticle URL: \u003ca href=\"https://blog.martinfenner.org/2014/08/25/using-microsoft-word-with-git/\"\u003ehttps://blog.martinfenner.org/2014/08/25/using-microsoft-word-with-git/\u003c/a\u003e\u003c/p\u003e\n\u003cp\u003eComments URL: \u003ca href=\"https://news.ycombinator.com/item?id=24302896\"\u003ehttps://news.ycombinator.com/item?id=24302896\u003c/a\u003e\u003c/p\u003e\n\u003cp\u003ePoints: 81\u003c/p\u003e\n\u003cp\u003e# Comments: 50\u003c/p\u003e\n",
+      "url": "https://blog.martinfenner.org/2014/08/25/using-microsoft-word-with-git/",
+      "external_url": "https://news.ycombinator.com/item?id=24302896",
+      "date_published": "2020-08-28T09:15:03Z",
+      "author": "the_dripper"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=24302735",
+      "title": "Svxlink: Advanced repeater controller and Echolink software for Linux",
+      "content_html": "\n\u003cp\u003eArticle URL: \u003ca href=\"https://github.com/sm0svx/svxlink\"\u003ehttps://github.com/sm0svx/svxlink\u003c/a\u003e\u003c/p\u003e\n\u003cp\u003eComments URL: \u003ca href=\"https://news.ycombinator.com/item?id=24302735\"\u003ehttps://news.ycombinator.com/item?id=24302735\u003c/a\u003e\u003c/p\u003e\n\u003cp\u003ePoints: 24\u003c/p\u003e\n\u003cp\u003e# Comments: 6\u003c/p\u003e\n",
+      "url": "https://github.com/sm0svx/svxlink",
+      "external_url": "https://news.ycombinator.com/item?id=24302735",
+      "date_published": "2020-08-28T08:49:54Z",
+      "author": "jbarrozo"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=24302553",
+      "title": "C++ Lightweight, cross-platform, HTML rendering engine for desktop apps",
+      "content_html": "\n\u003cp\u003eArticle URL: \u003ca href=\"https://github.com/ultralight-ux/Ultralight\"\u003ehttps://github.com/ultralight-ux/Ultralight\u003c/a\u003e\u003c/p\u003e\n\u003cp\u003eComments URL: \u003ca href=\"https://news.ycombinator.com/item?id=24302553\"\u003ehttps://news.ycombinator.com/item?id=24302553\u003c/a\u003e\u003c/p\u003e\n\u003cp\u003ePoints: 120\u003c/p\u003e\n\u003cp\u003e# Comments: 74\u003c/p\u003e\n",
+      "url": "https://github.com/ultralight-ux/Ultralight",
+      "external_url": "https://news.ycombinator.com/item?id=24302553",
+      "date_published": "2020-08-28T08:21:18Z",
+      "author": "plp12"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=24302529",
+      "title": "Hartree-Fock on a superconducting qubit quantum computer",
+      "content_html": "\n\u003cp\u003eArticle URL: \u003ca href=\"https://science.sciencemag.org/content/369/6507/1084\"\u003ehttps://science.sciencemag.org/content/369/6507/1084\u003c/a\u003e\u003c/p\u003e\n\u003cp\u003eComments URL: \u003ca href=\"https://news.ycombinator.com/item?id=24302529\"\u003ehttps://news.ycombinator.com/item?id=24302529\u003c/a\u003e\u003c/p\u003e\n\u003cp\u003ePoints: 34\u003c/p\u003e\n\u003cp\u003e# Comments: 11\u003c/p\u003e\n",
+      "url": "https://science.sciencemag.org/content/369/6507/1084",
+      "external_url": "https://news.ycombinator.com/item?id=24302529",
+      "date_published": "2020-08-28T08:14:46Z",
+      "author": "paultgriffiths"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=24302427",
+      "title": "RFC8890: The Internet Is for End Users",
+      "content_html": "\n\u003cp\u003eArticle URL: \u003ca href=\"https://www.mnot.net/blog/2020/08/28/for_the_users\"\u003ehttps://www.mnot.net/blog/2020/08/28/for_the_users\u003c/a\u003e\u003c/p\u003e\n\u003cp\u003eComments URL: \u003ca href=\"https://news.ycombinator.com/item?id=24302427\"\u003ehttps://news.ycombinator.com/item?id=24302427\u003c/a\u003e\u003c/p\u003e\n\u003cp\u003ePoints: 151\u003c/p\u003e\n\u003cp\u003e# Comments: 36\u003c/p\u003e\n",
+      "url": "https://www.mnot.net/blog/2020/08/28/for_the_users",
+      "external_url": "https://news.ycombinator.com/item?id=24302427",
+      "date_published": "2020-08-28T07:56:59Z",
+      "author": "pimterry"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=24302057",
+      "title": "Surprising new feature in AMD Ryzen 3000",
+      "content_html": "\n\u003cp\u003eArticle URL: \u003ca href=\"https://www.agner.org/forum/viewtopic.php?t=41\"\u003ehttps://www.agner.org/forum/viewtopic.php?t=41\u003c/a\u003e\u003c/p\u003e\n\u003cp\u003eComments URL: \u003ca href=\"https://news.ycombinator.com/item?id=24302057\"\u003ehttps://news.ycombinator.com/item?id=24302057\u003c/a\u003e\u003c/p\u003e\n\u003cp\u003ePoints: 103\u003c/p\u003e\n\u003cp\u003e# Comments: 15\u003c/p\u003e\n",
+      "url": "https://www.agner.org/forum/viewtopic.php?t=41",
+      "external_url": "https://news.ycombinator.com/item?id=24302057",
+      "date_published": "2020-08-28T06:52:29Z",
+      "author": "diffuse_l"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=24301940",
+      "title": "Powell’s says it won’t sell books on Amazon anymore: ‘We must take a stand’",
+      "content_html": "\n\u003cp\u003eArticle URL: \u003ca href=\"https://www.oregonlive.com/silicon-forest/2020/08/powells-says-it-wont-sell-books-on-amazon-anymore-we-must-take-a-stand.html\"\u003ehttps://www.oregonlive.com/silicon-forest/2020/08/powells-says-it-wont-sell-books-on-amazon-anymore-we-must-take-a-stand.html\u003c/a\u003e\u003c/p\u003e\n\u003cp\u003eComments URL: \u003ca href=\"https://news.ycombinator.com/item?id=24301940\"\u003ehttps://news.ycombinator.com/item?id=24301940\u003c/a\u003e\u003c/p\u003e\n\u003cp\u003ePoints: 89\u003c/p\u003e\n\u003cp\u003e# Comments: 72\u003c/p\u003e\n",
+      "url": "https://www.oregonlive.com/silicon-forest/2020/08/powells-says-it-wont-sell-books-on-amazon-anymore-we-must-take-a-stand.html",
+      "external_url": "https://news.ycombinator.com/item?id=24301940",
+      "date_published": "2020-08-28T06:28:52Z",
+      "author": "gscott"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=24301911",
+      "title": "A prickly patriot: Palantir’s prospectus reveals losses, promise",
+      "content_html": "\n\u003cp\u003eArticle URL: \u003ca href=\"https://www.economist.com/business/2020/08/29/palantirs-stockmarket-prospectus-reveals-both-losses-and-promise\"\u003ehttps://www.economist.com/business/2020/08/29/palantirs-stockmarket-prospectus-reveals-both-losses-and-promise\u003c/a\u003e\u003c/p\u003e\n\u003cp\u003eComments URL: \u003ca href=\"https://news.ycombinator.com/item?id=24301911\"\u003ehttps://news.ycombinator.com/item?id=24301911\u003c/a\u003e\u003c/p\u003e\n\u003cp\u003ePoints: 40\u003c/p\u003e\n\u003cp\u003e# Comments: 19\u003c/p\u003e\n",
+      "url": "https://www.economist.com/business/2020/08/29/palantirs-stockmarket-prospectus-reveals-both-losses-and-promise",
+      "external_url": "https://news.ycombinator.com/item?id=24301911",
+      "date_published": "2020-08-28T06:24:30Z",
+      "author": "jkuria"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=24301672",
+      "title": "Prime Minister Abe Shinzo Intends to Step Down",
+      "content_html": "\n\u003cp\u003eArticle URL: \u003ca href=\"https://www3.nhk.or.jp/nhkworld/en/news/20200828_28/\"\u003ehttps://www3.nhk.or.jp/nhkworld/en/news/20200828_28/\u003c/a\u003e\u003c/p\u003e\n\u003cp\u003eComments URL: \u003ca href=\"https://news.ycombinator.com/item?id=24301672\"\u003ehttps://news.ycombinator.com/item?id=24301672\u003c/a\u003e\u003c/p\u003e\n\u003cp\u003ePoints: 58\u003c/p\u003e\n\u003cp\u003e# Comments: 42\u003c/p\u003e\n",
+      "url": "https://www3.nhk.or.jp/nhkworld/en/news/20200828_28/",
+      "external_url": "https://news.ycombinator.com/item?id=24301672",
+      "date_published": "2020-08-28T05:36:56Z",
+      "author": "benrbray"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=24301031",
+      "title": "Who needs a case? The 3D Printed Mil-Plastic is here",
+      "content_html": "\n\u003cp\u003eArticle URL: \u003ca href=\"https://back7.co/home/back7co-mil-plastic\"\u003ehttps://back7.co/home/back7co-mil-plastic\u003c/a\u003e\u003c/p\u003e\n\u003cp\u003eComments URL: \u003ca href=\"https://news.ycombinator.com/item?id=24301031\"\u003ehttps://news.ycombinator.com/item?id=24301031\u003c/a\u003e\u003c/p\u003e\n\u003cp\u003ePoints: 82\u003c/p\u003e\n\u003cp\u003e# Comments: 42\u003c/p\u003e\n",
+      "url": "https://back7.co/home/back7co-mil-plastic",
+      "external_url": "https://news.ycombinator.com/item?id=24301031",
+      "date_published": "2020-08-28T03:14:32Z",
+      "author": "lvturner"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=24300907",
+      "title": "tilde.town: A social network over SSH",
+      "content_html": "\n\u003cp\u003eArticle URL: \u003ca href=\"https://tilde.town/\"\u003ehttps://tilde.town/\u003c/a\u003e\u003c/p\u003e\n\u003cp\u003eComments URL: \u003ca href=\"https://news.ycombinator.com/item?id=24300907\"\u003ehttps://news.ycombinator.com/item?id=24300907\u003c/a\u003e\u003c/p\u003e\n\u003cp\u003ePoints: 159\u003c/p\u003e\n\u003cp\u003e# Comments: 50\u003c/p\u003e\n",
+      "url": "https://tilde.town/",
+      "external_url": "https://news.ycombinator.com/item?id=24300907",
+      "date_published": "2020-08-28T02:47:44Z",
+      "author": "apsec112"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=24300548",
+      "title": "Safari adopts the Chrome/Firefox extension model",
+      "content_html": "\n\u003cp\u003eArticle URL: \u003ca href=\"https://developer.apple.com/news/?id=kuswih5l\"\u003ehttps://developer.apple.com/news/?id=kuswih5l\u003c/a\u003e\u003c/p\u003e\n\u003cp\u003eComments URL: \u003ca href=\"https://news.ycombinator.com/item?id=24300548\"\u003ehttps://news.ycombinator.com/item?id=24300548\u003c/a\u003e\u003c/p\u003e\n\u003cp\u003ePoints: 383\u003c/p\u003e\n\u003cp\u003e# Comments: 124\u003c/p\u003e\n",
+      "url": "https://developer.apple.com/news/?id=kuswih5l",
+      "external_url": "https://news.ycombinator.com/item?id=24300548",
+      "date_published": "2020-08-28T01:36:21Z",
+      "author": "soheilpro"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=24300365",
+      "title": "Waymo Tests Autonomous Trucks in Texas",
+      "content_html": "\n\u003cp\u003eArticle URL: \u003ca href=\"https://www.ttnews.com/articles/waymo-tests-autonomous-trucks-texas\"\u003ehttps://www.ttnews.com/articles/waymo-tests-autonomous-trucks-texas\u003c/a\u003e\u003c/p\u003e\n\u003cp\u003eComments URL: \u003ca href=\"https://news.ycombinator.com/item?id=24300365\"\u003ehttps://news.ycombinator.com/item?id=24300365\u003c/a\u003e\u003c/p\u003e\n\u003cp\u003ePoints: 97\u003c/p\u003e\n\u003cp\u003e# Comments: 63\u003c/p\u003e\n",
+      "url": "https://www.ttnews.com/articles/waymo-tests-autonomous-trucks-texas",
+      "external_url": "https://news.ycombinator.com/item?id=24300365",
+      "date_published": "2020-08-28T00:57:24Z",
+      "author": "apsec112"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=24300036",
+      "title": "Zoom still don't understand GDPR",
+      "content_html": "\n\u003cp\u003eArticle URL: \u003ca href=\"https://www.threatspike.com/blog/zoom_cookies.html\"\u003ehttps://www.threatspike.com/blog/zoom_cookies.html\u003c/a\u003e\u003c/p\u003e\n\u003cp\u003eComments URL: \u003ca href=\"https://news.ycombinator.com/item?id=24300036\"\u003ehttps://news.ycombinator.com/item?id=24300036\u003c/a\u003e\u003c/p\u003e\n\u003cp\u003ePoints: 368\u003c/p\u003e\n\u003cp\u003e# Comments: 205\u003c/p\u003e\n",
+      "url": "https://www.threatspike.com/blog/zoom_cookies.html",
+      "external_url": "https://news.ycombinator.com/item?id=24300036",
+      "date_published": "2020-08-27T23:57:50Z",
+      "author": "andrewnicolalde"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=24299597",
+      "title": "Notes on “Anthropology of Childhood”",
+      "content_html": "\n\u003cp\u003eArticle URL: \u003ca href=\"https://thewholesky.wordpress.com/2020/08/27/notes-on-anthropology-of-childhood-by-david-lancy/\"\u003ehttps://thewholesky.wordpress.com/2020/08/27/notes-on-anthropology-of-childhood-by-david-lancy/\u003c/a\u003e\u003c/p\u003e\n\u003cp\u003eComments URL: \u003ca href=\"https://news.ycombinator.com/item?id=24299597\"\u003ehttps://news.ycombinator.com/item?id=24299597\u003c/a\u003e\u003c/p\u003e\n\u003cp\u003ePoints: 8\u003c/p\u003e\n\u003cp\u003e# Comments: 1\u003c/p\u003e\n",
+      "url": "https://thewholesky.wordpress.com/2020/08/27/notes-on-anthropology-of-childhood-by-david-lancy/",
+      "external_url": "https://news.ycombinator.com/item?id=24299597",
+      "date_published": "2020-08-27T22:57:03Z",
+      "author": "mayiplease"
+    },
+    {
+      "id": "https://news.ycombinator.com/item?id=24298892",
+      "title": "Is your chart a detective story or a police report?",
+      "content_html": "\n\u003cp\u003eArticle URL: \u003ca href=\"https://www.wired.com/story/is-your-chart-a-detective-story-or-a-police-report/\"\u003ehttps://www.wired.com/story/is-your-chart-a-detective-story-or-a-police-report/\u003c/a\u003e\u003c/p\u003e\n\u003cp\u003eComments URL: \u003ca href=\"https://news.ycombinator.com/item?id=24298892\"\u003ehttps://news.ycombinator.com/item?id=24298892\u003c/a\u003e\u003c/p\u003e\n\u003cp\u003ePoints: 21\u003c/p\u003e\n\u003cp\u003e# Comments: 0\u003c/p\u003e\n",
+      "url": "https://www.wired.com/story/is-your-chart-a-detective-story-or-a-police-report/",
+      "external_url": "https://news.ycombinator.com/item?id=24298892",
+      "date_published": "2020-08-27T21:27:33Z",
+      "author": "fremden"
+    }
+  ]
+}

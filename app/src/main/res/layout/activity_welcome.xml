@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/splashScreen"
+
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".home.ui.SplashActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:orientation="vertical"
+        tools:ignore="MissingConstraints">
+        <include
+            layout="@layout/toolbar"
+            />
+
+        <ImageView
+            android:id="@+id/splashIcon"
+            android:layout_width="match_parent"
+            android:layout_height="240dp"
+            android:layout_marginTop="80dp"
+            android:paddingBottom="40dp"
+            android:src="@drawable/hacker_image" />
+
+        <TextView
+            android:id="@+id/welcomeText"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:layout_gravity="center_horizontal"
+            android:text="Welcome To HackerNews!"
+            android:textColor="@color/colorBlue"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            tools:ignore="HardcodedText,ObsoleteLayoutParam" />
+
+        <ProgressBar
+            android:id="@+id/splashProgress"
+            style="?android:attr/progressBarStyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:indeterminate="true"
+            android:indeterminateTintMode="src_atop"
+            android:indeterminateTint="@color/colorBlue"
+            android:layout_marginTop="50dp"
+            tools:ignore="UnusedAttribute" />
+
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>
